@@ -1,2 +1,2 @@
 # URL
-show the url in browser
+read the query string from client
